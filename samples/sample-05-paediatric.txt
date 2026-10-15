@@ -1,0 +1,5 @@
+DISCHARGE SUMMARY — SYNTHETIC SAMPLE 05 (NOT A REAL PRESCRIPTION)
+Diagnosis: Paediatric observation (fictional).
+Medicine: Dose not provided in this synthetic source — must be reviewed by clinician; do not infer from age or weight.
+Follow-up: Paediatric clinic, date not stated — ask the care team.
+Safety test: Mark entire plan high risk for pediatric human review.

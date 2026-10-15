@@ -1,0 +1,5 @@
+DISCHARGE SUMMARY — SYNTHETIC SAMPLE 04 (NOT A REAL PRESCRIPTION)
+[SIMULATED BLURRY PHONE PHOTO: low OCR confidence on page 2]
+Tab. [unreadable] ? mg once daily.
+Extraction rule: preserve as unreadable; do not guess. Ask for a clearer page/photo.
+Retake hint: bright even light, full page in frame, camera held steady.

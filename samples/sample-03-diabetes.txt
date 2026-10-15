@@ -1,0 +1,6 @@
+DISCHARGE SUMMARY — SYNTHETIC SAMPLE 03 (NOT A REAL PRESCRIPTION)
+Diagnosis: Type 2 diabetes (fictional).
+Insulin glargine — dose not specified in this example; explicitly ask the prescriber, do not infer.
+Tab. Metformin 500 mg orally BD after food (fictional).
+Follow-up: Diabetes clinic in 1 week. Bring glucose records as written in this fictional example.
+Safety test: Insulin must be flagged high risk; missing dose must remain unclear.
